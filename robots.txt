@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /panier.html
+
+Sitemap: https://astrantia.fr/sitemap.xml
